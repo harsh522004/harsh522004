@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Butani</h1>
-<h3 align="center">show me your code first!</h3>
+<h3 align="center">passionate about crafting innovative solutions and exploring the latest technologies.</h3>
 <img align="right" alt="Coding" width="200" height="200" src="https://user-images.githubusercontent.com/68494604/120436157-39627380-c39c-11eb-89cf-58089fb1032d.gif">
 
 
